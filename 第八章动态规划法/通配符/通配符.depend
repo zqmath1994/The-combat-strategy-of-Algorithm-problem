@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457488904 source:i:\算法问题实战策略\第八章动态规划法\通配符\main.cpp
+	<iostream>
+	<cstring>
+
